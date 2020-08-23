@@ -28,10 +28,10 @@
 <br />
 <br />
 
-<details>
+<!-- <details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="Oscarv0101 Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oscarv0101&show_icons=true&hide_border=true" />
 
 </details>
-
+ -->
