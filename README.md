@@ -1,7 +1,7 @@
 ### Hi there, I'm Oscar -  👋
 
 
-## A passiontate Developer 
+## A passionate Full Stack Developer
 
 - 🔭 I’m currently working on coding interview problems!
 - 🌱 I’m currently learning Computer Architecture 🤣
