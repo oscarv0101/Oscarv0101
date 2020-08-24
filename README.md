@@ -1,9 +1,7 @@
 ### Hi there, I'm Oscar -  👋
 
-!Website(https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)(https://oscarv-dev.netlify.app/)
 
-
-## I'm a Husband, Father, Developer, and Teacher!
+## A passiontate Developer 
 
 - 🔭 I’m currently working on coding interview problems!
 - 🌱 I’m currently learning Computer Architecture 🤣
